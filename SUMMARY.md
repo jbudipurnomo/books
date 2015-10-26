@@ -6,5 +6,6 @@
 * Layout Dasar
 * Desain Logo Sederhana
 * Layout Cover Buku
-* Export File 
+* Export File
+* Teknik Cetak File 
 

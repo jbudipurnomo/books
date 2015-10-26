@@ -1,4 +1,6 @@
-Corel Draw 
+Corel Draw Dasar
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Buku Saku Online tentang Corel Draw tingkat dasar menyajikan dasar-dasar mendesain logo, layout dan sebagainya menggunakan *software* desain grafis berbasis vektor. 
+
+Isi buku saku ini memuat dasar-dasar mendesain, perintah-perintah dasar yang lazim digunakan, trik mendesain secara efisien, mengeskpor file desain untuk keperluan web serta teknik cetak hasil desain. 

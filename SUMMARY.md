@@ -7,5 +7,5 @@
 * [Desain Logo Sederhana](chapter4.md)
 * [Layout Cover Buku](chapter5.md)
 * [Export File](chapter6.md)
-* Teknik Cetak File
+* [Teknik Cetak File](chapter7.md)
 

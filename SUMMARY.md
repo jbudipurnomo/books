@@ -4,4 +4,5 @@
 * [Perintah Dasar](chapter1.md)
 * Resolusi Cetak
 * Layout Dasar
+* Desain Logo Sederhana
 

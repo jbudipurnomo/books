@@ -6,6 +6,6 @@
 * [Layout Dasar](chapter3.md)
 * [Desain Logo Sederhana](chapter4.md)
 * [Layout Cover Buku](chapter5.md)
-* Export File
+* [Export File](chapter6.md)
 * Teknik Cetak File
 

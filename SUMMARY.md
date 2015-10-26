@@ -5,4 +5,5 @@
 * Resolusi Cetak
 * Layout Dasar
 * Desain Logo Sederhana
+* Layout Cover Buku 
 

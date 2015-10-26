@@ -1,5 +1,5 @@
 # Summary
 
 * [Pengantar](README.md)
-* [First Chapter](chapter1.md)
+* [Perintah Dasar](chapter1.md)
 

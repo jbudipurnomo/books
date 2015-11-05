@@ -1,2 +1,2 @@
-# Resolusi Cetak
+## Resolusi Cetak
 
